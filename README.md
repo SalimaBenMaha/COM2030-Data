@@ -49,6 +49,8 @@ five years, as called for in the Beijing Platform for Action.
 
 [NASA Climate Change Projection ](http://globalwarmingisreal.com/2015/06/09/nasa-dataset-projects-climate-change-21st-century/)
 
+NASA’s climate change dataset was produced by [NASA Earth Exchange](https://nex.nasa.gov/nex/), “a big-data research platform” housed within the NASA Advanced Supercomputing Center at its Ames Research Center in Moffett Field, California. It consists of and integrates actual measurements from around the world with data from climate simulations created by the [international Fifth Coupled Model Intercomparison Project.] (http://cmip-pcmdi.llnl.gov/cmip5/)
+
 
 ![Image of Yaktocat](http://globalwarmingisreal.com/wp-content/uploads/2015/06/temperature_nca-1991-2012_lrg-e1433867988113.jpg)
 
