@@ -50,7 +50,7 @@ five years, as called for in the Beijing Platform for Action.
 [NASA Climate Change Projection ](http://globalwarmingisreal.com/2015/06/09/nasa-dataset-projects-climate-change-21st-century/)
 
 
-[Image of Yaktocat](http://globalwarmingisreal.com/wp-content/uploads/2015/06/temperature_nca-1991-2012_lrg-e1433867988113.jpg)
+![Image of Yaktocat](http://globalwarmingisreal.com/wp-content/uploads/2015/06/temperature_nca-1991-2012_lrg-e1433867988113.jpg)
 
 
 
