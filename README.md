@@ -28,7 +28,8 @@ The Reality Mining experiment was conducted in 2004 and was the first to complil
 [Gender Statistics](http://datacatalog.worldbank.org/)
 
 III. The World’s Women 2015: Trends and Statistics
-16. The Statistics Division has prepared the sixth issue of the publication The
+
+The Statistics Division has prepared the sixth issue of the publication The
 World’s Women: Trends and Statistics, presenting statistics and analysis on the status
 of women and men in the world according to the latest available data and
 highlighting progress since 1995. The publication covers eight policy areas:
