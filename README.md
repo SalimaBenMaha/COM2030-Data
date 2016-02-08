@@ -23,7 +23,7 @@ Electric vehicles are increasingly taking the world by storm: Their sales are do
 There are many ways to evaluate electric vehicles sales, this data provides relevant informations allowing to rank countries by annual sales using their local distributors. 
 At the 5th place, the United Kingdom car market is dominated by plug-in hybrids, which showed 133% gains in 2012 over the previous year. Followed by the Norway, who hit a phenomenal 22% in 2012, when one in every five auto consumers chose electric over conventional powertrains.. At the 3rd place, the Netherlands reported over 43,282 sales in 2011. The United States might have taken a slight step back, but they remain on of the leaders of the electric vehicle market with Tesla Inc, the bigger seller in the world. The 1st place goes to China witht their blooming EV market with a record of  nearly 35,000 sales (a 400% gain) in December 2012. 
 
-[Link to Dataset] (https://drive.google.com/drive/u/0/my-drive)
+
 
 
 
