@@ -14,6 +14,9 @@ The Reality Mining experiment was conducted in 2004 and was the first to complil
 
 
 
+NUTGRAF
+
+
 **Top 5 Countries Dominating Electric Vehicle Sales**
 
 Electric vehicles are increasingly taking the world by storm: Their sales are doubling every year, bu who are the real leaders of this growing business. 
