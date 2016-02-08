@@ -25,7 +25,8 @@ At the 5th place, the United Kingdom car market is dominated by plug-in hybrids,
 
 
 
-
+**Freest Economies in the World**
+Economic freedom is measured by, among other things, levels of personal choice, the ability to enter markets and the security of privately-owned property. According to this data people in economically free societies earn incomes that more than twice the average levels in all other countries. Some of the 'freest' countries on the index were Asian Pacific (APAC) economies: Singapore came in second, with New Zealand at third and with Australia fifth.
 
 
 
